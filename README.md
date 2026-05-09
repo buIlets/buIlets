@@ -9,5 +9,5 @@
 </p>
     
 <p align="center">
-<a href="https://1911.atabook.org">atabook</a>　　<a href="https://rentry.co/1911colt">rentry</a>
+<a href="https://rentry.co/1911colt">rentry</a>　　　𐕣　　　<a href="https://1911.atabook.org">guestbook</a>
 </p>
