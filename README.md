@@ -5,5 +5,5 @@
 </p>
     
 <p align="center">
-<a href="https://rentry.co/jensens">RENTRY</a> ⠀      ⠀ <img src="https://blob.gifcities.org/gifcities/FU2VRCIRTJHEHFUO23QDTUFQIUU64WWJ.gif" width="20"> ⠀  ⠀     <a href="https://motor.atabook.org">新BOOK</a>
+<a href="https://rentry.co/jensens">RENTRY</a> ⠀ ⠀ ⠀ ⠀<img src="https://blob.gifcities.org/gifcities/FU2VRCIRTJHEHFUO23QDTUFQIUU64WWJ.gif" width="20"> ⠀ ⠀ ⠀ ⠀<a href="https://motor.atabook.org">新BOOK</a>
 </p>
