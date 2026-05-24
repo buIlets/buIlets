@@ -1,5 +1,5 @@
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=buIlets&style=plastic&base=100">
+<img src="https://komarev.com/ghpvc/?username=buIlets&style=plastic&base=100&color=000000&label=thrashers">
 </p>
 
 <p align="center">
