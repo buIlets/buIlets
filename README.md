@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img width="310" alt="tumblr_nle62b7ioO1rvfjldo1_500" src="https://github.com/user-attachments/assets/e0fc8c8d-ca8f-49f4-856e-768edb725333" />
+<img width="280" src="https://github.com/user-attachments/assets/ac456f98-6a5c-49d5-9518-6ea296016f00" />
 </p>
 
 <p align="center">
