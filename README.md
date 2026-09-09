@@ -1,5 +1,5 @@
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=buIlets&style=flat&color=000000&label=ammo"> <img src="https://blob.gifcities.org/gifcities/FU2VRCIRTJHEHFUO23QDTUFQIUU64WWJ.gif" width="20">
+<img src="https://komarev.com/ghpvc/?username=buIlets&style=flat&color=000000&label=bodies"> <img src="https://blob.gifcities.org/gifcities/FU2VRCIRTJHEHFUO23QDTUFQIUU64WWJ.gif" width="20">
 </p>
 
 <p align="center">
