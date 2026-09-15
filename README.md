@@ -6,5 +6,5 @@
 <img width="450" alt="Screenshot 2026-09-16 032145" src="https://github.com/user-attachments/assets/6fbe3030-f7d5-472d-ba21-1f313b609604" />
 </p>
 <p align="center">
-<a href="https://hunted.atabook.org/">新book</a>
+<a href="https://hunted.atabook.org/"><strong>新book</strong></a>
 </p>
