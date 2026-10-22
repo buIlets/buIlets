@@ -5,4 +5,3 @@
 <p align="center">
 <img width="450" src="https://files.catbox.moe/tup4wv.png" />
 </p>
-<p align="center"> @ that one oomf who's too theon greyjoy </p>
