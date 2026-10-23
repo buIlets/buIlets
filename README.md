@@ -1,3 +1,4 @@
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=builets&color=000000&label=ammo&abbreviated=true"> <img src="https://blob.gifcities.org/gifcities/FU2VRCIRTJHEHFUO23QDTUFQIUU64WWJ.gif" width="20">
+<img src="https://komarev.com/ghpvc/?username=builets&color=000000&label=ammo&abbreviated=true"> <img width="32" height="32" src="https://github.com/user-attachments/assets/5abdb368-1f69-4e62-a44c-110cb97b1eae" />
+
 </p>
