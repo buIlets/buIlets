@@ -1,5 +1,5 @@
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=builets&color=lightgrey&label=ammo&abbreviated=true" /> <img width="20" src="https://github.com/user-attachments/assets/ba88eefe-8ac1-4199-a36a-02dead78a8c4" />
+<img src="https://komarev.com/ghpvc/?username=builets&color=lightgrey&label=ammo&abbreviated=true" /> <img height="20" src="https://github.com/user-attachments/assets/ba88eefe-8ac1-4199-a36a-02dead78a8c4" />
 </p>
 
 <p align="center">
